@@ -1,0 +1,16 @@
+{
+      "threads": 10,
+      "proxyless": false,
+      "max_joins": 100,
+      "delay": 0,
+      "captcha": {
+                "solve_captcha": true,
+                "service": "aiclientz",
+                "apikeys": {
+                              "razorcap": "your_key",
+                              "aiclientz": "Team-Ai-244035-grdxzk"
+                },
+                "proxyless": false,
+                "captcha_attempts": 1
+      }
+}
